@@ -86,28 +86,33 @@
 | Dalva Ferreira          | 57  | Sim | Casa        | 2         | Aposentada        | Filmes e rede social   | Não | Adotaria |
 | Geraldo Gumercindo 27   | 68  | Sim | Casa        | 2 a 3     | Aposentado        | Andar de carro         |     | Adotaria |
 | Roberta Kelly           | 37  | Não | Casa        | 3         | Trabalha          | Artesanato             | 1   | Não      |
+| Ana paula               | 38  | Sim | Casa        | 4         | Trabalha          | Artesanato             | 4   | Sim      |
+| Gelson Wagner 28        | 49  | Não | Casa        | 4         | Trabalha          | Jardinagem             | 4   | Não      |
+| Rogerio Rosa    29      | 44  | Não | Apartamento | 4 a 5     | Trabalha          | Cerveja artesanal      |     | Não      |
+| Guilherme Enrique 30    | 28  | Sim | Apartamento | 2         | Estuda e trabalha | Programação            |     | Sim      |
+| Kayk senna          31  | 21  | Sim | Apartamento | 1         | Estuda e trabalha | Surfa                  |  1  | Não      |
 
-*Em alguns casos, algumas respostas foram ignoradas por falta de respostas em perguntas.
+
 ## **Conclusões**
 
 * Pessoas que trabalham tendem a não querer adotar, porém esse caso é contrário quando a pessoa somente estuda;
 * Pessoas aposentadas tendem a adotar, enquanto pessoas que trabalham e estudam tendem a adotar ou não na mesma medida; Pessoas desempregadas tendem a adotar mais;
 ```
-Trabalha (26 pesso) : 11 pessoas adotariam, enquanto 14 pessoas não adotariam
+Trabalha (29 pessoas) : 13 pessoas adotariam, enquanto 17 pessoas não adotariam
 Estuda (23 pessoas) : 18 pessoas adotariam, quanto 5 pessoas não adotariam
 Desempregados (6 pessoas) : 4 pessoas adotariam, enquanto 2 pessoas não adotariam
 Aposentados(2 pessoas):  2 pessoas adotariam
-Trabalha e estuda (12 pessoas) : 6 pessoas adotariam, enquanto 6 pessoas não adotariam.
+Trabalha e estuda (14 pessoas) : 7 pessoas adotariam, enquanto 7 pessoas não adotariam.
 ```
 * Pessoas que não tem um animal tendem a não querer adotar, assim como as que já tem tendem a querer adotar. 
 ```
-Não tem animal (20 pessoas) : 8 adotariam, quanto 12 não adotariam
-Tem animal (41 pessoas) : 29 pessoas adotariam, quanto 11 não adotariam.
+Não tem animal (20 pessoas): 11 não adotariam, enquanto 9 adotariam
+Tem animal (35 pessoas): 24 adotariam, enquanto 11 não adotariam
 ```
 * Pessoas que passam pouco tempo em casa tendem a não adotar, assim como pessoas que passam muito tempo tendem a adotar;
 ```
 Pouco tempo em casa (18 pessoas): 10 pessoas não adotariam, enquanto 8 pessoas adotariam
-Muito tempo em casa (35 pessoas): 23 pessoas adotariam, enquanto 12 não adotariam
+Muito tempo em casa (38 pessoas): 25 pessoas adotariam, enquanto 13 não adotariam
 ```
 * Pessoas que moram em apartamento tendem a não querer adotar animais ou a ter somente 1;
 * Pessoas entre 17 a 20 anos tendem a querer adotar um pet online;
@@ -120,7 +125,7 @@ Muito tempo em casa (35 pessoas): 23 pessoas adotariam, enquanto 12 não adotari
 * Pessoas entre 24 a 29 tendem a não adotar;
 ```
 24: 1 pessoa adotaria, enquanto 2 não adotariam
-25 e 29 (4 pessoas): Os resultados ficaram bem divididos 2 adotariam e 2 não adotariam
+25 e 29 (5 pessoas): 3 adotariam e 2 não adotariam
 ```
 * Pessoas entre 26 a 41 tendem a não adotar;
 ```
